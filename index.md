@@ -10,5 +10,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [Piranesi](ebook/Piranesi.pdf) - Susanna Clarke (2020)
 7. [Partita A Novel](ebook/Partita A Novel.pdf) - Barbara Kingsolver (2026)
 8. [The Midnight Library](ebook/The Midnight Library.pdf) - Matt Haig (2020)
+9. [Dune](ebook/Dune.pdf) - Frank Herbert (2019)
 ---
 *Powered by GitHub Pages*
