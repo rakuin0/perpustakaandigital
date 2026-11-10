@@ -13,5 +13,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Dune](ebook/Dune.pdf) - Frank Herbert (2019)
 10. [Educated](ebook/Educated.pdf) - Tara Westover (2018)
 11. [Anne of Green Gables](ebook/Anne of Green Gables.pdf) - Montgomery L M (1908)
+12. [UGC PATI](ebook/UGC PATI.pdf) - Hana Rafifah K (2026)
 ---
 *Powered by GitHub Pages*
