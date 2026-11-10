@@ -9,5 +9,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Red Rising](ebook/Red Rising.pdf) - Pierce Brown (2014)
 6. [Piranesi](ebook/Piranesi.pdf) - Susanna Clarke (2020)
 7. [Partita A Novel](ebook/Partita A Novel.pdf) - Barbara Kingsolver (2026)
+8. [The Midnight Library](ebook/The Midnight Library.pdf) - Matt Haig (2020)
 ---
 *Powered by GitHub Pages*
