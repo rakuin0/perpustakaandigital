@@ -12,5 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [The Midnight Library](ebook/The Midnight Library.pdf) - Matt Haig (2020)
 9. [Dune](ebook/Dune.pdf) - Frank Herbert (2019)
 10. [Educated](ebook/Educated.pdf) - Tara Westover (2018)
+11. [Anne of Green Gables](ebook/Anne of Green Gables.pdf) - Montgomery L M (1908)
 ---
 *Powered by GitHub Pages*
